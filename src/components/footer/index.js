@@ -17,11 +17,8 @@ const Footer = () => {
         <div className="container">
           <span className="ds-copyright">
             {footer.title}{" "}
-            <a href="https://wwww.designstub.com/" target="_blanck"></a>
           </span>
-          <a href="https://wwww.designstub.com/" target="_blanck"></a>
         </div>
-        <a href="https://wwww.designstub.com/" target="_blanck"></a>
       </footer>
     )
 }
